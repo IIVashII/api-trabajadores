@@ -1,11 +1,8 @@
 {
 
-  "trabajadores":
-    
+  "trabajadores":  
     {
-        "rut": 1, 
-        "nombre": "Javier",
-        "estado": 0  
+        "rut": {"string":1}
     }
     
   
