@@ -1,3 +1,12 @@
 {
-[ { "name": "Loki" }, { "name": "Loki" }, { "name": "Thor" }, ... ]
+
+  "Trabajadores":[
+    
+    {
+        "rut": 1, 
+        "nombre: "Javier"
+        "estado": 0  
+    }
+    
+  ] 
 }
