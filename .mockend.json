@@ -1,0 +1,7 @@
+{
+    "trabajadores": [
+      { "rut": 1, "estado": "0"},
+       {"rut":2, "estado": "1"}
+    ]
+ 
+  }
