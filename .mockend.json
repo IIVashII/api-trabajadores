@@ -1,14 +1,7 @@
-  {
-    "Post": {
-      "title": { "string": {} },
-      "comments": {
-        "hasMany": "Comment"
-      }
-    },
-    "Comment": {
-      "body": { "string": {} },
-      "post": {
-        "belongsTo": "Post"
-      }
-    }
+{
+    "posts": [
+      { "rut": 1, "estado": "0"},
+       {"rut":2, "estado": "1"}
+    ]
+ 
   }
